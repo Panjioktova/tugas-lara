@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Tugas | Laravel 8</title>
+  <title>Tugas Framwork Programming</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -18,7 +18,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="l"><b>Profile</a>
+    <a href="l"><b>My Profile</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -26,15 +26,15 @@
         <div class="row">
             <div class="col-md-12 offset-md-6">
                 <table class="table">
-                <center><img src = "foto/ichsan.jpg" width = "150 px" height = "150" > </img></center>
+                <center><img src = "foto/panji.jpg" width = "150 px" height = "150" > </img></center>
                     <tbody>
                         <tr>
                             <th style="width: 30%">NIM</th>
-                            <td>: 18090115</td>
+                            <td>: 18090120</td>
                         </tr>
                         <tr>
                             <th>Nama</th>
-                            <td>: Moh. Ichsan Maulana</td>
+                            <td>: Panji Oktova Prasetyo</td>
                         </tr>
                         <tr>
                             <th>Kelas</th>
